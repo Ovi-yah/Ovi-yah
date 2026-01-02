@@ -1,8 +1,9 @@
 
 
-<div style="background-color:#0d1117; color:#ffa500; padding:16px; border-radius:8px;">
 
-<h2>💻 Tech Stack</h2>
+<h2> Tech Stack</h2>
+<div style={border-bottom: 1px dotted #000;}>
+
 <ul>
   <li>Frontend: <p align="center">
   <a href="https://skillicons.dev">
