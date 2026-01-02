@@ -2,7 +2,7 @@
 
 
 <h2> Tech Stack</h2>
-<div style={border-bottom: 1px dotted #000;}>
+<div style={border-bottom: 3px dotted red;}>
 
 <ul>
   <li>Frontend: <p align="center">
